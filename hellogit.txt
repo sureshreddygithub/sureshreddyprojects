@@ -1,0 +1,7 @@
+class Git
+{
+ void git()
+ {
+  Sopln("hello git");
+ }
+}
